@@ -1,0 +1,25 @@
+{
+  "header":{
+    "logo":"../static/logo.png",
+    "text":"最具挑战性的挑战莫过于挑战自我",
+    "author":"--赵思远",
+    "bg":"../static/bg.jpg"
+  },
+    "article":[
+      {
+         "src":"../static/article.jpg",
+         "title":"HTML5+CSS3实战篇",
+         "introduce":"H5和CSS3的一些简单用法，H5的新增标签和CSS3的新增样式和动画效果."
+      },
+      {
+        "src":"../static/article.jpg",
+        "title":"JQUERY实战篇",
+        "introduce":"JQ的选择器用法以及一些绑定方法的使用."
+      },
+      {
+        "src":"../static/article.jpg",
+        "title":"vue.js单页面应用实战篇",
+        "introduce":"vue2.0+vue-cli+webpack构建页面和踩坑."
+      }
+    ]
+}
